@@ -7,6 +7,6 @@ value = var.sample
 
 variable sample1 {}
 
-output sample {
+output sample1 {
 value = var.sample1
 }
